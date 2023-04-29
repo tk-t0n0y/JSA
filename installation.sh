@@ -3,11 +3,11 @@
 printf "Subjs installation.. (Thanks to Corben Leo :) )\n\n"
 GO111MODULE=on go get -u -v github.com/lc/subjs
 
-printf "Gau installation.. (Thanks to Corben Leo :) )\n\n"
-GO111MODULE=on go get -u -v github.com/lc/gau
+printf "Gau_PLUS installation.. (Thanks to bp0lr :) )\n\n"
+GO111MODULE=on go get -u -v github.com/bp0lr/gauplus
 
-printf "Hackrawler installation.. (Thanks to Luke Stephens :) )\n\n"
-GO111MODULE=on go get -u -v github.com/hakluke/hakrawler
+printf "Katana installation.. (Thanks to Luke projectdiscovery :) )\n\n"
+GO111MODULE=on go get -u -v github.com/projectdiscovery/katana
 
 printf "github-endpoints.py wgetting.. (Thanks to Gwendal Le Coguic :) )\n\n"
 wget https://github.com/gwen001/github-search/raw/master/github-endpoints.py
